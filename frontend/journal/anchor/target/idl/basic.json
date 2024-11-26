@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "name": "basic",
+  "instructions": [
+    {
+      "name": "greet",
+      "accounts": [],
+      "args": []
+    }
+  ],
+  "metadata": {
+    "address": "5JX4ESuV8xBsGrPFQ5PrP1VMqdyn4v2vUEqM2GcPm8mh"
+  }
+}
